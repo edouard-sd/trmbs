@@ -59,16 +59,15 @@ function getOptionsForStep(stepIndex, currentPerson, allPeople) {
   pool = pool.filter(val => String(val || '') !== safeCurrentVal && val);
   
   // Pick random distractors
-  shuffle(pool);
-  let distractors = pool.slice(0, 3);
+  const shuffledPool = shuffle(pool);
+  let distractors = shuffledPool.slice(0, 3);
   
   // If not enough unique distractors, repeat some (should be rare with enough data)
   while (distractors.length < 3 && pool.length > 0) {
     distractors.push(pool[Math.floor(Math.random() * pool.length)]);
   }
   
-  const options = [safeCurrentVal, ...distractors];
-  shuffle(options);
+  const options = shuffle([safeCurrentVal, ...distractors]);
   
   return { options, correctAnswer: safeCurrentVal };
 }
