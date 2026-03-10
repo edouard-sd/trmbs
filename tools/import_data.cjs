@@ -85,6 +85,41 @@ function formatRole(role, roleTransverse) {
   return display || 'Membre';
 }
 
+// Determine gender (M/F) from first name
+function getGender(firstName, lastName = '') {
+  const f = firstName.trim().toLowerCase();
+  const full = `${firstName} ${lastName}`.trim().toLowerCase();
+  
+  // Specific exceptions from user
+  if (full.includes('andrea zimbaldi')) return 'H';
+  if (f === 'alvise') return 'H';
+  if (full.includes('mathial keshavarz')) return 'H';
+  if (f === 'matisse') return 'H';
+  if (f === 'meyad') return 'H';
+  if (f === 'sacha') return 'H';
+  if (f === 'jinshen') return 'H';
+  if (f === 'shuhan') return 'H';
+  if (f === 'siyu') return 'H';
+  
+  // Explicit lists from user and common cases
+  const females = new Set([
+    'angèle', 'augustine', 'alice', 'alicia', 'alissa', 'amandine', 'anais', 'angelina', 'anna', 
+    'anne-estelle', 'anne-gaëlle', 'armony', 'bianca', 'camille', 'capucine', 'carla', 'ceylin', 
+    'charline', 'eleana', 'elise', 'elsa', 'eugenie', 'félicité', 'garance', 'haruna', 'heidi', 
+    'héloïse', 'iroise', 'jeanne', 'johanne', 'juliette', 'louise', 'mathilde', 'margot', 'maria', 
+    'marie', 'maryam', 'mayalen', 'mélodie', 'morgane', 'raphaëlle', 'salomé', 'sara lou', 'sarah', 
+    'sofia', 'sophia', 'soraya', 'sveva', 'valentine', 'yiliana', 'zeynep', 'zheniya', 'andrea'
+  ]);
+  
+  if (females.has(f)) return 'F';
+  
+  // Common female endings
+  if (f.endsWith('ette') || f.endsWith('elle') || f.endsWith('ine') || f.endsWith('ie')) return 'F';
+  
+  // Default to Male 
+  return 'H';
+}
+
 function main() {
   const result = { lists: [] };
   
@@ -145,7 +180,8 @@ function main() {
           lastName,
           role: formatRole(role, ''), 
           roleTransverse: roleTransverse ? formatRole('', roleTransverse) : '',
-          roleDisplay: formattedRole, // Keep the combined one for backward compatibility
+          roleDisplay: formattedRole,
+          gender: getGender(firstName, lastName),
           photo: photoPath,
           list: listName,
           pole: poleName

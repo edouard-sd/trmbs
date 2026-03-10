@@ -96,14 +96,19 @@ export function getPeopleByList(data, listId) {
  * @returns {Array} 4 options mélangées
  */
 export function generateOptions(correctPerson, allPeople) {
-  // Exclure la bonne réponse (comparer par photo pour unicité)
   const correctId = correctPerson.id || correctPerson.photo;
-  const others = allPeople.filter((p) => (p.id || p.photo) !== correctId);
+  
+  // Filtrer par genre pour les distracteurs
+  let othersWithSameGender = allPeople.filter(
+    (p) => (p.id || p.photo) !== correctId && p.gender === correctPerson.gender
+  );
 
-  // Prendre 3 distracteurs aléatoires
-  const distractors = shuffle(others).slice(0, 3);
+  // Si pas assez de personnes du même genre (ex: pôle très petit), prendre n'importe qui
+  if (othersWithSameGender.length < 3) {
+    othersWithSameGender = allPeople.filter((p) => (p.id || p.photo) !== correctId);
+  }
 
-  // Ajouter la bonne réponse et mélanger
+  const distractors = shuffle(othersWithSameGender).slice(0, 3);
   return shuffle([correctPerson, ...distractors]);
 }
 
