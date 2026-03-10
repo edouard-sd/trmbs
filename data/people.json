@@ -14,6 +14,7 @@
               "role": "Responsable",
               "roleTransverse": "",
               "roleDisplay": "Responsable",
+              "gender": "F",
               "photo": "photos/KSK/Ambassador/Anais_Auclert_Head.png",
               "list": "KSK",
               "pole": "Ambassador"
@@ -24,6 +25,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Ambassador/Marie_Federspiel.png",
               "list": "KSK",
               "pole": "Ambassador"
@@ -34,6 +36,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Ambassador/Louise_Neyraut.png",
               "list": "KSK",
               "pole": "Ambassador"
@@ -50,6 +53,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Animation/Morgane_Bassaget.png",
               "list": "KSK",
               "pole": "Animation"
@@ -60,6 +64,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Animation/Cagan_Günes.png",
               "list": "KSK",
               "pole": "Animation"
@@ -70,6 +75,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Animation/Axel_Leroy.png",
               "list": "KSK",
               "pole": "Animation"
@@ -80,6 +86,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Animation/Robin_Moreels.png",
               "list": "KSK",
               "pole": "Animation"
@@ -96,6 +103,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Communication/Robin_Brevière.png",
               "list": "KSK",
               "pole": "Communication"
@@ -106,6 +114,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Communication/Romain_Conrad.png",
               "list": "KSK",
               "pole": "Communication"
@@ -116,6 +125,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Communication/Haruna_Kitabake.png",
               "list": "KSK",
               "pole": "Communication"
@@ -126,6 +136,7 @@
               "role": "Responsable",
               "roleTransverse": "",
               "roleDisplay": "Responsable",
+              "gender": "F",
               "photo": "photos/KSK/Communication/Heidi_Lustman_Head.png",
               "list": "KSK",
               "pole": "Communication"
@@ -136,6 +147,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Communication/Honoré_Vanderchmitt.png",
               "list": "KSK",
               "pole": "Communication"
@@ -152,6 +164,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Event/Félicité_Delapalme.png",
               "list": "KSK",
               "pole": "Event"
@@ -162,6 +175,7 @@
               "role": "Responsable",
               "roleTransverse": "",
               "roleDisplay": "Responsable",
+              "gender": "H",
               "photo": "photos/KSK/Event/Mathial_Keshavarz_Head.png",
               "list": "KSK",
               "pole": "Event"
@@ -172,6 +186,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Event/Alicia_Moutafis.png",
               "list": "KSK",
               "pole": "Event"
@@ -182,6 +197,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Event/Valentine_Ollier.png",
               "list": "KSK",
               "pole": "Event"
@@ -192,6 +208,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Event/Sophia_Sayegrih.png",
               "list": "KSK",
               "pole": "Event"
@@ -208,6 +225,7 @@
               "role": "Resp. IS",
               "roleTransverse": "",
               "roleDisplay": "Resp. IS",
+              "gender": "H",
               "photo": "photos/KSK/IS/Nick_Dhairya_HeadIS.png",
               "list": "KSK",
               "pole": "IS"
@@ -218,6 +236,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/IS/Eugenie_Gratton.png",
               "list": "KSK",
               "pole": "IS"
@@ -228,6 +247,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/IS/Hugo_Soriano.png",
               "list": "KSK",
               "pole": "IS"
@@ -244,6 +264,7 @@
               "role": "Resp. Logistique",
               "roleTransverse": "",
               "roleDisplay": "Resp. Logistique",
+              "gender": "H",
               "photo": "photos/KSK/Logistics/Nicolas_Duron_HeadLogi.png",
               "list": "KSK",
               "pole": "Logistics"
@@ -254,6 +275,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Logistics/Albert_Cousi.png",
               "list": "KSK",
               "pole": "Logistics"
@@ -264,6 +286,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Logistics/Raphaëlle_DeVulliod.png",
               "list": "KSK",
               "pole": "Logistics"
@@ -274,6 +297,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Logistics/Justinas_Novik.png",
               "list": "KSK",
               "pole": "Logistics"
@@ -284,6 +308,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Logistics/Thibault_Taillade.png",
               "list": "KSK",
               "pole": "Logistics"
@@ -300,6 +325,7 @@
               "role": "Président",
               "roleTransverse": "",
               "roleDisplay": "Président",
+              "gender": "H",
               "photo": "photos/KSK/Presidency/Gabriel_Canavaggio_President.png",
               "list": "KSK",
               "pole": "Presidency"
@@ -310,6 +336,7 @@
               "role": "Vice-Président(e)",
               "roleTransverse": "",
               "roleDisplay": "Vice-Président(e)",
+              "gender": "F",
               "photo": "photos/KSK/Presidency/Alissa_Pelerin_VP.png",
               "list": "KSK",
               "pole": "Presidency"
@@ -326,6 +353,7 @@
               "role": "Resp. Secrétariat",
               "roleTransverse": "",
               "roleDisplay": "Resp. Secrétariat",
+              "gender": "H",
               "photo": "photos/KSK/Secretary/PierrePascal_Said_HeadSecretary.png",
               "list": "KSK",
               "pole": "Secretary"
@@ -336,6 +364,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Secretary/Marc_Escrich.png",
               "list": "KSK",
               "pole": "Secretary"
@@ -346,6 +375,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/KSK/Secretary/Ceylin_Kiran.png",
               "list": "KSK",
               "pole": "Secretary"
@@ -362,6 +392,7 @@
               "role": "Responsable",
               "roleTransverse": "",
               "roleDisplay": "Responsable",
+              "gender": "H",
               "photo": "photos/KSK/Travel/Tristan_Lasserre_Head.png",
               "list": "KSK",
               "pole": "Travel"
@@ -372,6 +403,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Travel/Anton_Poupaud.png",
               "list": "KSK",
               "pole": "Travel"
@@ -388,6 +420,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Treasury/Tom_Olivier.png",
               "list": "KSK",
               "pole": "Treasury"
@@ -398,6 +431,7 @@
               "role": "Responsable",
               "roleTransverse": "",
               "roleDisplay": "Responsable",
+              "gender": "H",
               "photo": "photos/KSK/Treasury/Marin_Touneur_Head.png",
               "list": "KSK",
               "pole": "Treasury"
@@ -408,6 +442,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/KSK/Treasury/Siyu_Wang.png",
               "list": "KSK",
               "pole": "Treasury"
@@ -430,6 +465,7 @@
               "role": "Resp. Animationation",
               "roleTransverse": "",
               "roleDisplay": "Resp. Animationation",
+              "gender": "H",
               "photo": "photos/PRK/Animation/Meyad_Bouima_HeadAnimation.png",
               "list": "PRK",
               "pole": "Animation"
@@ -440,6 +476,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/PRK/Animation/Sarah_Combalbert.png",
               "list": "PRK",
               "pole": "Animation"
@@ -450,6 +487,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Inter-Asso",
               "roleDisplay": "Resp. Inter-Asso",
+              "gender": "H",
               "photo": "photos/PRK/Animation/Nélio_Giry_X_HeadInterasso.png",
               "list": "PRK",
               "pole": "Animation"
@@ -466,6 +504,7 @@
               "role": "Resp. Communicationunication",
               "roleTransverse": "",
               "roleDisplay": "Resp. Communicationunication",
+              "gender": "H",
               "photo": "photos/PRK/Communication/Darius_Daoudi-Videcoq_HeadCommunication.png",
               "list": "PRK",
               "pole": "Communication"
@@ -476,6 +515,7 @@
               "role": "Membre",
               "roleTransverse": "RSE",
               "roleDisplay": "RSE",
+              "gender": "F",
               "photo": "photos/PRK/Communication/Antoine_Duron_X_RSE.png",
               "list": "PRK",
               "pole": "Communication"
@@ -486,6 +526,7 @@
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/PRK/Communication/Anne-Gaëlle_Penhoud_X_ROO.png",
               "list": "PRK",
               "pole": "Communication"
@@ -502,6 +543,7 @@
               "role": "Resp. Événements",
               "roleTransverse": "",
               "roleDisplay": "Resp. Événements",
+              "gender": "F",
               "photo": "photos/PRK/Event/Héloïse_Charmet_HeadEvent.png",
               "list": "PRK",
               "pole": "Event"
@@ -512,6 +554,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Event/Rishabh_Banerjee.png",
               "list": "PRK",
               "pole": "Event"
@@ -522,6 +565,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Event/Ruben_Deme.png",
               "list": "PRK",
               "pole": "Event"
@@ -532,6 +576,7 @@
               "role": "ROO",
               "roleTransverse": "",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/PRK/Event/SaraLou_Jacquet_ROO.png",
               "list": "PRK",
               "pole": "Event"
@@ -542,6 +587,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Campus",
               "roleDisplay": "Resp. Campus",
+              "gender": "H",
               "photo": "photos/PRK/Event/Julien_Roy_X_HeadCampus.png",
               "list": "PRK",
               "pole": "Event"
@@ -558,6 +604,7 @@
               "role": "Resp. IS",
               "roleTransverse": "",
               "roleDisplay": "Resp. IS",
+              "gender": "H",
               "photo": "photos/PRK/IS/Shuhan_TammyYang_HeadIS.png",
               "list": "PRK",
               "pole": "IS"
@@ -568,6 +615,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/IS/Luca_Rossi.png",
               "list": "PRK",
               "pole": "IS"
@@ -578,6 +626,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/PRK/IS/Eleana_Saiti.png",
               "list": "PRK",
               "pole": "IS"
@@ -594,6 +643,7 @@
               "role": "Resp. Logistiquestics",
               "roleTransverse": "Head RSE Career",
               "roleDisplay": "Resp. Logistiquestics / Head RSE Career",
+              "gender": "H",
               "photo": "photos/PRK/Logistics/Luca_ LeGuen_HeadLogistics_HeadRSE_Career.png",
               "list": "PRK",
               "pole": "Logistics"
@@ -604,6 +654,7 @@
               "role": "RSE",
               "roleTransverse": "",
               "roleDisplay": "RSE",
+              "gender": "H",
               "photo": "photos/PRK/Logistics/Vladimir_Enquin_RSE.png",
               "list": "PRK",
               "pole": "Logistics"
@@ -614,6 +665,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Sécurité ROO",
               "roleDisplay": "Resp. Sécurité ROO",
+              "gender": "F",
               "photo": "photos/PRK/Logistics/Pierre-Antoine_Houmeau_X_HeadSecurity_ROO.png",
               "list": "PRK",
               "pole": "Logistics"
@@ -624,6 +676,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/PRK/Logistics/Mayalen_Misse.png",
               "list": "PRK",
               "pole": "Logistics"
@@ -634,6 +687,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Logistics/Paul_Vasquez-Teran.png",
               "list": "PRK",
               "pole": "Logistics"
@@ -650,6 +704,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/PRK/Members/Angelina_Abolrous.png",
               "list": "PRK",
               "pole": "Members"
@@ -660,6 +715,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Members/Marc_Dumont.png",
               "list": "PRK",
               "pole": "Members"
@@ -670,6 +726,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Members/Andrea_Zimbaldi.png",
               "list": "PRK",
               "pole": "Members"
@@ -686,6 +743,7 @@
               "role": "Resp. Ambassadeurs",
               "roleTransverse": "Resp. Career",
               "roleDisplay": "Resp. Ambassadeurs / Resp. Career",
+              "gender": "F",
               "photo": "photos/PRK/Partnerships/Charline_Brengou_HeadAmbassador_HeadCareer.png",
               "list": "PRK",
               "pole": "Partnerships"
@@ -696,6 +754,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/PRK/Partnerships/Margot_Destobbeleir.png",
               "list": "PRK",
               "pole": "Partnerships"
@@ -706,6 +765,7 @@
               "role": "ROO",
               "roleTransverse": "",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/PRK/Partnerships/Sveva_Munari_ROO.png",
               "list": "PRK",
               "pole": "Partnerships"
@@ -722,6 +782,7 @@
               "role": "Vice-Président(e)",
               "roleTransverse": "ROO",
               "roleDisplay": "VP / ROO",
+              "gender": "F",
               "photo": "photos/PRK/Presidency/Armony_Joly-Michelin_VP_ROO.png",
               "list": "PRK",
               "pole": "Presidency"
@@ -732,6 +793,7 @@
               "role": "Président",
               "roleTransverse": "",
               "roleDisplay": "Président",
+              "gender": "H",
               "photo": "photos/PRK/Presidency/Andrei_Kouznetsov_President.png",
               "list": "PRK",
               "pole": "Presidency"
@@ -748,6 +810,7 @@
               "role": "Resp. Secrétariat",
               "roleTransverse": "",
               "roleDisplay": "Resp. Secrétariat",
+              "gender": "H",
               "photo": "photos/PRK/Secretary/Sacha_Devos_HeadSecretary.png",
               "list": "PRK",
               "pole": "Secretary"
@@ -758,6 +821,7 @@
               "role": "Membre",
               "roleTransverse": "Career",
               "roleDisplay": "Career",
+              "gender": "F",
               "photo": "photos/PRK/Secretary/Bianca_Oprean_X_Career.png",
               "list": "PRK",
               "pole": "Secretary"
@@ -768,6 +832,7 @@
               "role": "ROO",
               "roleTransverse": "",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/PRK/Secretary/Capucine_Vignet_ROO.png",
               "list": "PRK",
               "pole": "Secretary"
@@ -784,6 +849,7 @@
               "role": "Resp. Travel",
               "roleTransverse": "Head Accomodation",
               "roleDisplay": "Resp. Travel / Head Accomodation",
+              "gender": "H",
               "photo": "photos/PRK/Travel/Jean-Baptiste_Soulat_HeadTravel_HeadAccomodation.png",
               "list": "PRK",
               "pole": "Travel"
@@ -794,6 +860,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/PRK/Travel/Hippolyte_Harmel.png",
               "list": "PRK",
               "pole": "Travel"
@@ -810,6 +877,7 @@
               "role": "Resp. Trésorerie",
               "roleTransverse": "Resp. CVEC",
               "roleDisplay": "Resp. Trésorerie / Resp. CVEC",
+              "gender": "F",
               "photo": "photos/PRK/Treasury/Charline_Keirouz_HeadTreasury_HeadCVEC.png",
               "list": "PRK",
               "pole": "Treasury"
@@ -820,6 +888,7 @@
               "role": "Career",
               "roleTransverse": "",
               "roleDisplay": "Career",
+              "gender": "H",
               "photo": "photos/PRK/Treasury/Trystan_Lam_Career.png",
               "list": "PRK",
               "pole": "Treasury"
@@ -842,6 +911,7 @@
               "role": "Resp. Animation",
               "roleTransverse": "Resp. Hébergement",
               "roleDisplay": "Resp. Animation / Resp. Hébergement",
+              "gender": "H",
               "photo": "photos/RNK/Animation/Timoté_Luciani_HeadAnim_HeadOfAccommodation.png",
               "list": "RNK",
               "pole": "Animation"
@@ -852,6 +922,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Inter-Asso",
               "roleDisplay": "Resp. Inter-Asso",
+              "gender": "H",
               "photo": "photos/RNK/Animation/William_Dogan_X_HeadInterasso.png",
               "list": "RNK",
               "pole": "Animation"
@@ -862,6 +933,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/RNK/Animation/Garance_Goguelin.png",
               "list": "RNK",
               "pole": "Animation"
@@ -872,6 +944,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Animation/Jules_Jugnickel.png",
               "list": "RNK",
               "pole": "Animation"
@@ -888,6 +961,7 @@
               "role": "Resp. Communication",
               "roleTransverse": "RSE",
               "roleDisplay": "Resp. Communication / RSE",
+              "gender": "H",
               "photo": "photos/RNK/Communication/William_Linchet_HeadComm_RSE.png",
               "list": "RNK",
               "pole": "Communication"
@@ -898,6 +972,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Communication/Jules_Bopape.png",
               "list": "RNK",
               "pole": "Communication"
@@ -908,6 +983,7 @@
               "role": "Membre",
               "roleTransverse": "Career",
               "roleDisplay": "Career",
+              "gender": "H",
               "photo": "photos/RNK/Communication/Mayeul_MaréchalDeCharentenay_X_Career.png",
               "list": "RNK",
               "pole": "Communication"
@@ -918,6 +994,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/RNK/Communication/Anna_Orourke.png",
               "list": "RNK",
               "pole": "Communication"
@@ -928,6 +1005,7 @@
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/RNK/Communication/Yiliana_YidikaMona_X_ROO.png",
               "list": "RNK",
               "pole": "Communication"
@@ -944,6 +1022,7 @@
               "role": "Resp. Événements",
               "roleTransverse": "Career",
               "roleDisplay": "Resp. Événements / Career",
+              "gender": "F",
               "photo": "photos/RNK/Event/Carla_Duhamel_HeadEvent_Career.png",
               "list": "RNK",
               "pole": "Event"
@@ -954,6 +1033,7 @@
               "role": "Membre",
               "roleTransverse": "RSE",
               "roleDisplay": "RSE",
+              "gender": "F",
               "photo": "photos/RNK/Event/Mélodie_Daveau_X_RSE.png",
               "list": "RNK",
               "pole": "Event"
@@ -964,6 +1044,7 @@
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/RNK/Event/Johanne_Deshoux_X_ROO.png",
               "list": "RNK",
               "pole": "Event"
@@ -974,6 +1055,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/RNK/Event/Camille_Hascoët.png",
               "list": "RNK",
               "pole": "Event"
@@ -984,6 +1066,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Campus",
               "roleDisplay": "Resp. Campus",
+              "gender": "H",
               "photo": "photos/RNK/Event/Raphael_Pincon_X_HeadCampus.png",
               "list": "RNK",
               "pole": "Event"
@@ -1000,6 +1083,7 @@
               "role": "Resp. IS",
               "roleTransverse": "Career",
               "roleDisplay": "Resp. IS / Career",
+              "gender": "H",
               "photo": "photos/RNK/IS/Zander_Kluebler_HeadIS_Career.png",
               "list": "RNK",
               "pole": "IS"
@@ -1010,6 +1094,7 @@
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
+              "gender": "F",
               "photo": "photos/RNK/IS/Zheniya_Boldina_X_ROO.png",
               "list": "RNK",
               "pole": "IS"
@@ -1020,6 +1105,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/IS/Jinshen_Yu.png",
               "list": "RNK",
               "pole": "IS"
@@ -1036,6 +1122,7 @@
               "role": "Resp. Logistique",
               "roleTransverse": "Head RSE",
               "roleDisplay": "Resp. Logistique / Head RSE",
+              "gender": "H",
               "photo": "photos/RNK/Logistics/Thadée_Darras_HeadLogi_HeadRSE.png",
               "list": "RNK",
               "pole": "Logistics"
@@ -1046,6 +1133,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Logistics/Hugo_Hervet.png",
               "list": "RNK",
               "pole": "Logistics"
@@ -1056,6 +1144,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Logistics/Sava_Ljujic.png",
               "list": "RNK",
               "pole": "Logistics"
@@ -1066,6 +1155,7 @@
               "role": "Membre",
               "roleTransverse": "Career",
               "roleDisplay": "Career",
+              "gender": "F",
               "photo": "photos/RNK/Logistics/Iroise_Molin_X_Career.png",
               "list": "RNK",
               "pole": "Logistics"
@@ -1076,6 +1166,7 @@
               "role": "Membre",
               "roleTransverse": "Career",
               "roleDisplay": "Career",
+              "gender": "H",
               "photo": "photos/RNK/Logistics/Arthur_Pointel_X_Career.png",
               "list": "RNK",
               "pole": "Logistics"
@@ -1092,6 +1183,7 @@
               "role": "Resp. ROO",
               "roleTransverse": "",
               "roleDisplay": "Resp. ROO",
+              "gender": "F",
               "photo": "photos/RNK/Partnerships/Jeanne_Levêque_HeadROO.png",
               "list": "RNK",
               "pole": "Partnerships"
@@ -1102,6 +1194,7 @@
               "role": "Resp. Ambassadeurs",
               "roleTransverse": "",
               "roleDisplay": "Resp. Ambassadeurs",
+              "gender": "H",
               "photo": "photos/RNK/Partnerships/Alexy_Masselin_HeadAmbass.png",
               "list": "RNK",
               "pole": "Partnerships"
@@ -1112,6 +1205,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/RNK/Partnerships/Elise_Monin.png",
               "list": "RNK",
               "pole": "Partnerships"
@@ -1128,6 +1222,7 @@
               "role": "Président",
               "roleTransverse": "",
               "roleDisplay": "Président",
+              "gender": "H",
               "photo": "photos/RNK/Presidency/Emilien_Bonnefous_President.png",
               "list": "RNK",
               "pole": "Presidency"
@@ -1138,6 +1233,7 @@
               "role": "Vice-Président(e)",
               "roleTransverse": "ROO",
               "roleDisplay": "VP / ROO",
+              "gender": "F",
               "photo": "photos/RNK/Presidency/Elsa_Hajjar_VP_ROO.png",
               "list": "RNK",
               "pole": "Presidency"
@@ -1154,6 +1250,7 @@
               "role": "Resp. Secrétariat",
               "roleTransverse": "Resp. Sécurité",
               "roleDisplay": "Resp. Secrétariat / Resp. Sécurité",
+              "gender": "H",
               "photo": "photos/RNK/Secretary/Baptiste_Roulier_HeadSecretary_HeadSecurity.png",
               "list": "RNK",
               "pole": "Secretary"
@@ -1164,6 +1261,7 @@
               "role": "Membre",
               "roleTransverse": "Resp. Career",
               "roleDisplay": "Resp. Career",
+              "gender": "F",
               "photo": "photos/RNK/Secretary/Sofia_Battaglia_X_HeadCareer.png",
               "list": "RNK",
               "pole": "Secretary"
@@ -1174,6 +1272,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/RNK/Secretary/Maryam_Cambourg.png",
               "list": "RNK",
               "pole": "Secretary"
@@ -1190,6 +1289,7 @@
               "role": "Resp. Travel",
               "roleTransverse": "",
               "roleDisplay": "Resp. Travel",
+              "gender": "H",
               "photo": "photos/RNK/Travel/Quentin_Jacquet_HeadTravel.png",
               "list": "RNK",
               "pole": "Travel"
@@ -1200,6 +1300,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Travel/Clément_Deschandol.png",
               "list": "RNK",
               "pole": "Travel"
@@ -1216,6 +1317,7 @@
               "role": "Resp. Trésorerie",
               "roleTransverse": "Resp. CVEC",
               "roleDisplay": "Resp. Trésorerie / Resp. CVEC",
+              "gender": "H",
               "photo": "photos/RNK/Treasury/Pierre_Koenig_HeadTreasury_HeadCVEC.png",
               "list": "RNK",
               "pole": "Treasury"
@@ -1226,6 +1328,7 @@
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
+              "gender": "H",
               "photo": "photos/RNK/Treasury/Axel_Leca_X_ROO.png",
               "list": "RNK",
               "pole": "Treasury"
@@ -1236,6 +1339,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/RNK/Treasury/Yahya_Rafouk.png",
               "list": "RNK",
               "pole": "Treasury"
@@ -1258,6 +1362,7 @@
               "role": "Resp. Ambassadeurs",
               "roleTransverse": "",
               "roleDisplay": "Resp. Ambassadeurs",
+              "gender": "H",
               "photo": "photos/TMK/Ambass/RAPHAEL_CHURLAUD_HeadAmbass.png",
               "list": "TMK",
               "pole": "Ambass"
@@ -1268,6 +1373,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Ambass/ALVISE_MORONI.png",
               "list": "TMK",
               "pole": "Ambass"
@@ -1278,6 +1384,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Ambass/SALOMÉ_PAILLARGUE.png",
               "list": "TMK",
               "pole": "Ambass"
@@ -1294,6 +1401,7 @@
               "role": "Resp. Animation",
               "roleTransverse": "",
               "roleDisplay": "Resp. Animation",
+              "gender": "F",
               "photo": "photos/TMK/Animation/Anne-Estelle_Tremblay_HeadAnim.png",
               "list": "TMK",
               "pole": "Animation"
@@ -1304,6 +1412,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Animation/Louis_LeMélinaire.png",
               "list": "TMK",
               "pole": "Animation"
@@ -1314,6 +1423,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Animation/Solal_Ndjomo.png",
               "list": "TMK",
               "pole": "Animation"
@@ -1324,6 +1434,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Animation/Lévon_Vard.png",
               "list": "TMK",
               "pole": "Animation"
@@ -1340,17 +1451,19 @@
               "role": "Resp. Communication",
               "roleTransverse": "",
               "roleDisplay": "Resp. Communication",
+              "gender": "H",
               "photo": "photos/TMK/Communication/Jean-Baptiste_Sarret_HeadComm.png",
               "list": "TMK",
               "pole": "Communication"
             },
             {
-              "firstName": "image (76)",
-              "lastName": "",
+              "firstName": "Ada",
+              "lastName": "Bicakci",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
-              "photo": "photos/TMK/Communication/image (76).png",
+              "gender": "H",
+              "photo": "photos/TMK/Communication/Ada_Bicakci.png",
               "list": "TMK",
               "pole": "Communication"
             },
@@ -1360,6 +1473,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Communication/Gabin_Deshoux.png",
               "list": "TMK",
               "pole": "Communication"
@@ -1370,6 +1484,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Communication/Tommy_Ihoua.png",
               "list": "TMK",
               "pole": "Communication"
@@ -1380,6 +1495,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Communication/Matisse_Lurie-Giner.png",
               "list": "TMK",
               "pole": "Communication"
@@ -1396,6 +1512,7 @@
               "role": "Resp. Événements",
               "roleTransverse": "",
               "roleDisplay": "Resp. Événements",
+              "gender": "F",
               "photo": "photos/TMK/Event/Juliette_Chretien_HeadEvent.png",
               "list": "TMK",
               "pole": "Event"
@@ -1406,6 +1523,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Event/Celestin_Huang.png",
               "list": "TMK",
               "pole": "Event"
@@ -1416,6 +1534,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Event/Félix_Strupler.png",
               "list": "TMK",
               "pole": "Event"
@@ -1426,6 +1545,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Event/Andrea_Villoslada.png",
               "list": "TMK",
               "pole": "Event"
@@ -1436,6 +1556,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Event/Amandine_Vitoux.png",
               "list": "TMK",
               "pole": "Event"
@@ -1452,6 +1573,7 @@
               "role": "Resp. IS",
               "roleTransverse": "",
               "roleDisplay": "Resp. IS",
+              "gender": "F",
               "photo": "photos/TMK/IS/Maria_Ortiz_HeadIS.png",
               "list": "TMK",
               "pole": "IS"
@@ -1462,6 +1584,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/IS/Eduardo_Nanaya.png",
               "list": "TMK",
               "pole": "IS"
@@ -1472,6 +1595,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/IS/Soraya_Shetty.png",
               "list": "TMK",
               "pole": "IS"
@@ -1488,6 +1612,7 @@
               "role": "Resp. Logistique",
               "roleTransverse": "",
               "roleDisplay": "Resp. Logistique",
+              "gender": "H",
               "photo": "photos/TMK/Logistics/Helin_Dignac_HeadLogi.png",
               "list": "TMK",
               "pole": "Logistics"
@@ -1498,6 +1623,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Logistics/Alice_Bletsas.png",
               "list": "TMK",
               "pole": "Logistics"
@@ -1508,6 +1634,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Logistics/Andrea_ChapatSanz.png",
               "list": "TMK",
               "pole": "Logistics"
@@ -1518,6 +1645,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Logistics/Gaspard_DeMontbel.png",
               "list": "TMK",
               "pole": "Logistics"
@@ -1528,6 +1656,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Logistics/Bartuhan_Turk.png",
               "list": "TMK",
               "pole": "Logistics"
@@ -1544,6 +1673,7 @@
               "role": "Vice-Président(e)",
               "roleTransverse": "",
               "roleDisplay": "Vice-Président(e)",
+              "gender": "F",
               "photo": "photos/TMK/Presidency/AUGUSTINE_CHOTTEAU_VP.png",
               "list": "TMK",
               "pole": "Presidency"
@@ -1554,6 +1684,7 @@
               "role": "Président",
               "roleTransverse": "",
               "roleDisplay": "Président",
+              "gender": "H",
               "photo": "photos/TMK/Presidency/LOUIS_MERLIN_President.png",
               "list": "TMK",
               "pole": "Presidency"
@@ -1570,6 +1701,7 @@
               "role": "Resp. Secrétariat",
               "roleTransverse": "",
               "roleDisplay": "Resp. Secrétariat",
+              "gender": "F",
               "photo": "photos/TMK/Secretary/ANGÈLE_PIN_HeadSecretary.png",
               "list": "TMK",
               "pole": "Secretary"
@@ -1580,6 +1712,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Secretary/ZEYNEP_AYTEKIN.png",
               "list": "TMK",
               "pole": "Secretary"
@@ -1590,6 +1723,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Secretary/KOSTANTIN_IKODINOVIC.png",
               "list": "TMK",
               "pole": "Secretary"
@@ -1606,6 +1740,7 @@
               "role": "Resp. Travel",
               "roleTransverse": "",
               "roleDisplay": "Resp. Travel",
+              "gender": "H",
               "photo": "photos/TMK/Travel/Constant_Duval_HeadTravel.png",
               "list": "TMK",
               "pole": "Travel"
@@ -1616,6 +1751,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Travel/Maxime_Soulies.png",
               "list": "TMK",
               "pole": "Travel"
@@ -1632,6 +1768,7 @@
               "role": "Resp. Trésorerie",
               "roleTransverse": "",
               "roleDisplay": "Resp. Trésorerie",
+              "gender": "H",
               "photo": "photos/TMK/Treasury/HUGO_TUO_HeadTreasury.png",
               "list": "TMK",
               "pole": "Treasury"
@@ -1642,6 +1779,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "H",
               "photo": "photos/TMK/Treasury/ARHTUR_JEGADEN.png",
               "list": "TMK",
               "pole": "Treasury"
@@ -1652,6 +1790,7 @@
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
+              "gender": "F",
               "photo": "photos/TMK/Treasury/MATHILDE_PASQUET.png",
               "list": "TMK",
               "pole": "Treasury"
