@@ -23,8 +23,11 @@ function parseFilename(filename) {
     return { firstName: parts[0] || 'Unknown', lastName: '', role: '', roleTransverse: '' };
   }
   
-  const firstName = parts[0];
-  const lastName = parts[1];
+  // Apply camelCase spacing to names (e.g. Nom1Nom2 -> Nom1 Nom2)
+  const splitCamelCase = (str) => str ? str.replace(/([a-z])([A-Z])/g, '$1 $2') : '';
+
+  const firstName = splitCamelCase(parts[0]);
+  const lastName = splitCamelCase(parts[1]);
   const role = parts.length > 2 ? parts[2] : '';
   const roleTransverse = parts.length > 3 ? parts.slice(3).join(' ') : '';
   
@@ -63,8 +66,10 @@ function formatRole(role, roleTransverse) {
     [/HeadAmbass/i, 'Resp. Ambassadeurs'],
     [/HeadCareer/i, 'Resp. Career'],
     [/HeadOfAccommodation/i, 'Resp. Hébergement'],
+    [/Hebergement non/i, 'Head accomodation'],
     [/Respect of Others/i, 'ROO'],
     [/Carrer/i, 'Career'],
+    [/Ambassadeursador/i, 'Ambassadeurs'],
   ];
   
   for (const [pattern, replacement] of mappings) {

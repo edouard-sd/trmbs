@@ -205,10 +205,10 @@
             {
               "firstName": "Nick",
               "lastName": "Dhairya",
-              "role": "Membre",
+              "role": "Resp. IS",
               "roleTransverse": "",
-              "roleDisplay": "Membre",
-              "photo": "photos/KSK/IS/Nick_Dhairya.png",
+              "roleDisplay": "Resp. IS",
+              "photo": "photos/KSK/IS/Nick_Dhairya_HeadIS.png",
               "list": "KSK",
               "pole": "IS"
             },
@@ -239,6 +239,16 @@
           "name": "Logistics",
           "people": [
             {
+              "firstName": "Nicolas",
+              "lastName": "Duron",
+              "role": "Resp. Logistique",
+              "roleTransverse": "",
+              "roleDisplay": "Resp. Logistique",
+              "photo": "photos/KSK/Logistics/Nicolas_Duron_HeadLogi.png",
+              "list": "KSK",
+              "pole": "Logistics"
+            },
+            {
               "firstName": "Albert",
               "lastName": "Cousi",
               "role": "Membre",
@@ -250,21 +260,11 @@
             },
             {
               "firstName": "Raphaëlle",
-              "lastName": "DeVulliod",
+              "lastName": "De Vulliod",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
               "photo": "photos/KSK/Logistics/Raphaëlle_DeVulliod.png",
-              "list": "KSK",
-              "pole": "Logistics"
-            },
-            {
-              "firstName": "Nicolas",
-              "lastName": "Duron",
-              "role": "Responsable",
-              "roleTransverse": "",
-              "roleDisplay": "Responsable",
-              "photo": "photos/KSK/Logistics/Nicolas_Duron_Head.png",
               "list": "KSK",
               "pole": "Logistics"
             },
@@ -321,6 +321,16 @@
           "name": "Secretary",
           "people": [
             {
+              "firstName": "Pierre Pascal",
+              "lastName": "Said",
+              "role": "Resp. Secrétariat",
+              "roleTransverse": "",
+              "roleDisplay": "Resp. Secrétariat",
+              "photo": "photos/KSK/Secretary/PierrePascal_Said_HeadSecretary.png",
+              "list": "KSK",
+              "pole": "Secretary"
+            },
+            {
               "firstName": "Marc",
               "lastName": "Escrich",
               "role": "Membre",
@@ -337,16 +347,6 @@
               "roleTransverse": "",
               "roleDisplay": "Membre",
               "photo": "photos/KSK/Secretary/Ceylin_Kiran.png",
-              "list": "KSK",
-              "pole": "Secretary"
-            },
-            {
-              "firstName": "Pierre",
-              "lastName": "Pascal",
-              "role": "Said",
-              "roleTransverse": "Resp. Secrétariat",
-              "roleDisplay": "Said / Resp. Secrétariat",
-              "photo": "photos/KSK/Secretary/Pierre_Pascal_Said_HeadSecretary.png",
               "list": "KSK",
               "pole": "Secretary"
             }
@@ -471,22 +471,22 @@
               "pole": "Communication"
             },
             {
-              "firstName": "Anne-Gaëlle",
-              "lastName": "Penhoud",
-              "role": "Resp. ROO",
-              "roleTransverse": "",
-              "roleDisplay": "Resp. ROO",
-              "photo": "photos/PRK/Communication/Anne-Gaëlle_Penhoud_HeadROO.png",
+              "firstName": "Antoine",
+              "lastName": "Duron",
+              "role": "Membre",
+              "roleTransverse": "RSE",
+              "roleDisplay": "RSE",
+              "photo": "photos/PRK/Communication/Antoine_Duron_X_RSE.png",
               "list": "PRK",
               "pole": "Communication"
             },
             {
-              "firstName": "Antoine",
-              "lastName": "Duron",
-              "role": "RSE",
-              "roleTransverse": "",
-              "roleDisplay": "RSE",
-              "photo": "photos/PRK/Communication/Antoine_Duron_RSE.png",
+              "firstName": "Anne-Gaëlle",
+              "lastName": "Penhoud",
+              "role": "Membre",
+              "roleTransverse": "ROO",
+              "roleDisplay": "ROO",
+              "photo": "photos/PRK/Communication/Anne-Gaëlle_Penhoud_X_ROO.png",
               "list": "PRK",
               "pole": "Communication"
             }
@@ -503,16 +503,6 @@
               "roleTransverse": "",
               "roleDisplay": "Resp. Événements",
               "photo": "photos/PRK/Event/Héloïse_Charmet_HeadEvent.png",
-              "list": "PRK",
-              "pole": "Event"
-            },
-            {
-              "firstName": "Julien",
-              "lastName": "Roy",
-              "role": "Resp. Campus",
-              "roleTransverse": "",
-              "roleDisplay": "Resp. Campus",
-              "photo": "photos/PRK/Event/Julien_Roy_HeadCampus.png",
               "list": "PRK",
               "pole": "Event"
             },
@@ -537,12 +527,22 @@
               "pole": "Event"
             },
             {
-              "firstName": "SaraLou",
+              "firstName": "Sara Lou",
               "lastName": "Jacquet",
               "role": "ROO",
               "roleTransverse": "",
               "roleDisplay": "ROO",
               "photo": "photos/PRK/Event/SaraLou_Jacquet_ROO.png",
+              "list": "PRK",
+              "pole": "Event"
+            },
+            {
+              "firstName": "Julien",
+              "lastName": "Roy",
+              "role": "Membre",
+              "roleTransverse": "Resp. Campus",
+              "roleDisplay": "Resp. Campus",
+              "photo": "photos/PRK/Event/Julien_Roy_X_HeadCampus.png",
               "list": "PRK",
               "pole": "Event"
             }
@@ -554,7 +554,7 @@
           "people": [
             {
               "firstName": "Shuhan",
-              "lastName": "TammyYang",
+              "lastName": "Tammy Yang",
               "role": "Resp. IS",
               "roleTransverse": "",
               "roleDisplay": "Resp. IS",
@@ -590,21 +590,11 @@
           "people": [
             {
               "firstName": "Luca",
-              "lastName": " LeGuen",
+              "lastName": " Le Guen",
               "role": "Resp. Logistiquestics",
               "roleTransverse": "Head RSE Career",
               "roleDisplay": "Resp. Logistiquestics / Head RSE Career",
               "photo": "photos/PRK/Logistics/Luca_ LeGuen_HeadLogistics_HeadRSE_Career.png",
-              "list": "PRK",
-              "pole": "Logistics"
-            },
-            {
-              "firstName": "Pierre-Antoine",
-              "lastName": "Houmeau",
-              "role": "Resp. Sécurité",
-              "roleTransverse": "",
-              "roleDisplay": "Resp. Sécurité",
-              "photo": "photos/PRK/Logistics/Pierre-Antoine_Houmeau_HeadSecurity.png",
               "list": "PRK",
               "pole": "Logistics"
             },
@@ -615,6 +605,16 @@
               "roleTransverse": "",
               "roleDisplay": "RSE",
               "photo": "photos/PRK/Logistics/Vladimir_Enquin_RSE.png",
+              "list": "PRK",
+              "pole": "Logistics"
+            },
+            {
+              "firstName": "Pierre-Antoine",
+              "lastName": "Houmeau",
+              "role": "Membre",
+              "roleTransverse": "Resp. Sécurité ROO",
+              "roleDisplay": "Resp. Sécurité ROO",
+              "photo": "photos/PRK/Logistics/Pierre-Antoine_Houmeau_X_HeadSecurity_ROO.png",
               "list": "PRK",
               "pole": "Logistics"
             },
@@ -683,9 +683,9 @@
             {
               "firstName": "Charline",
               "lastName": "Brengou",
-              "role": "Resp. Ambassadeursador",
+              "role": "Resp. Ambassadeurs",
               "roleTransverse": "Resp. Career",
-              "roleDisplay": "Resp. Ambassadeursador / Resp. Career",
+              "roleDisplay": "Resp. Ambassadeurs / Resp. Career",
               "photo": "photos/PRK/Partnerships/Charline_Brengou_HeadAmbassador_HeadCareer.png",
               "list": "PRK",
               "pole": "Partnerships"
@@ -904,7 +904,7 @@
             },
             {
               "firstName": "Mayeul",
-              "lastName": "MaréchalDeCharentenay",
+              "lastName": "Maréchal De Charentenay",
               "role": "Membre",
               "roleTransverse": "Career",
               "roleDisplay": "Career",
@@ -924,7 +924,7 @@
             },
             {
               "firstName": "Yiliana",
-              "lastName": "YidikaMona",
+              "lastName": "Yidika Mona",
               "role": "Membre",
               "roleTransverse": "ROO",
               "roleDisplay": "ROO",
@@ -1052,11 +1052,11 @@
             },
             {
               "firstName": "Sava",
-              "lastName": "Lujic",
+              "lastName": "Ljujic",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
-              "photo": "photos/RNK/Logistics/Sava_Lujic.png",
+              "photo": "photos/RNK/Logistics/Sava_Ljujic.png",
               "list": "RNK",
               "pole": "Logistics"
             },
@@ -1229,6 +1229,16 @@
               "photo": "photos/RNK/Treasury/Axel_Leca_X_ROO.png",
               "list": "RNK",
               "pole": "Treasury"
+            },
+            {
+              "firstName": "Yahya",
+              "lastName": "Rafouk",
+              "role": "Membre",
+              "roleTransverse": "",
+              "roleDisplay": "Membre",
+              "photo": "photos/RNK/Treasury/Yahya_Rafouk.png",
+              "list": "RNK",
+              "pole": "Treasury"
             }
           ]
         }
@@ -1290,7 +1300,7 @@
             },
             {
               "firstName": "Louis",
-              "lastName": "LeMélinaire",
+              "lastName": "Le Mélinaire",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
@@ -1331,6 +1341,16 @@
               "roleTransverse": "",
               "roleDisplay": "Resp. Communication",
               "photo": "photos/TMK/Communication/Jean-Baptiste_Sarret_HeadComm.png",
+              "list": "TMK",
+              "pole": "Communication"
+            },
+            {
+              "firstName": "image (76)",
+              "lastName": "",
+              "role": "Membre",
+              "roleTransverse": "",
+              "roleDisplay": "Membre",
+              "photo": "photos/TMK/Communication/image (76).png",
               "list": "TMK",
               "pole": "Communication"
             },
@@ -1484,7 +1504,7 @@
             },
             {
               "firstName": "Andrea",
-              "lastName": "ChapatSanz",
+              "lastName": "Chapat Sanz",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
@@ -1494,7 +1514,7 @@
             },
             {
               "firstName": "Gaspard",
-              "lastName": "DeMontbel",
+              "lastName": "De Montbel",
               "role": "Membre",
               "roleTransverse": "",
               "roleDisplay": "Membre",
