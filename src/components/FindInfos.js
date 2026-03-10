@@ -67,9 +67,13 @@ function getOptionsForStep(stepIndex, currentPerson, allPeople) {
     distractors.push(pool[Math.floor(Math.random() * pool.length)]);
   }
   
-  const options = shuffle([safeCurrentVal, ...distractors]);
+  // Combine correct and distractors
+  const combined = [safeCurrentVal, ...distractors];
   
-  return { options, correctAnswer: safeCurrentVal };
+  // Shuffle multiple times or ensure shuffle is definitely returning the new array
+  const finalOptions = shuffle(combined);
+  
+  return { options: finalOptions, correctAnswer: safeCurrentVal };
 }
 
 let internalStep = 0;
